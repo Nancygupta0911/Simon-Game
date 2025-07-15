@@ -2,7 +2,6 @@
 
 A web-based memory game built using **HTML**, **CSS**, and **JavaScript** that challenges users to repeat an increasingly long sequence of colors. Inspired by the classic Simon electronic game!
 
-![Simon Game Screenshot](https://raw.githubusercontent.com/Nancygupta0911/Simon-Game/main/screenshot.png)
 
 ---
 
@@ -47,5 +46,27 @@ A web-based memory game built using **HTML**, **CSS**, and **JavaScript** that c
 
 ---
 
-## 📁 Folder Structure
+## 💡 Inspiration
+
+This project was created as part of my web development learning journey to understand DOM manipulation, event handling, and game logic in JavaScript.
+
+---
+
+## 🙌 Acknowledgements
+
+- Inspired by the classic Simon game.
+- Sound assets and idea referenced from [The App Brewery](https://www.appbrewery.co/).
+
+---
+
+## 📬 Contact
+
+**Nancy Gupta**  
+📧 [nancygupta0911@gmail.com](mailto:nancygupta0911@gmail.com)  
+🌐 [GitHub Profile](https://github.com/Nancygupta0911)
+
+---
+
+
+
 
