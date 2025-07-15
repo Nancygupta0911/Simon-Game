@@ -8,7 +8,7 @@ A web-based memory game built using **HTML**, **CSS**, and **JavaScript** that c
 
 ## 🚀 Live Demo
 
-🔗 [Click here to play the Simon Game](https://simongameop.netlify.app/url)  
+🔗 [Click here to play the Simon Game](https://simongameop.netlify.app/)  
 
 ---
 
