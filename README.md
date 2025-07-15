@@ -42,7 +42,7 @@ A web-based memory game built using **HTML**, **CSS**, and **JavaScript** that c
 
 ## 📸 Screenshots
 
-<img src="[https://raw.githubusercontent.com/Nancygupta0911/Simon-Game/main/screenshot.png](https://github.com/Nancygupta0911/Simon-Game/blob/main/screenshot.png)" alt="Game Screenshot" width="500">
+<img src="https://github.com/Nancygupta0911/Simon-Game/blob/main/screenshot.png" alt="Game Screenshot" width="500">
 
 ---
 
